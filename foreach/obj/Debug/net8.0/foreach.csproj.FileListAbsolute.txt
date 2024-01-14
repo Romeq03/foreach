@@ -1,0 +1,14 @@
+/Users/bartekromek/wsb/foreach/foreach/bin/Debug/net8.0/foreach
+/Users/bartekromek/wsb/foreach/foreach/bin/Debug/net8.0/foreach.deps.json
+/Users/bartekromek/wsb/foreach/foreach/bin/Debug/net8.0/foreach.runtimeconfig.json
+/Users/bartekromek/wsb/foreach/foreach/bin/Debug/net8.0/foreach.dll
+/Users/bartekromek/wsb/foreach/foreach/bin/Debug/net8.0/foreach.pdb
+/Users/bartekromek/wsb/foreach/foreach/obj/Debug/net8.0/foreach.GeneratedMSBuildEditorConfig.editorconfig
+/Users/bartekromek/wsb/foreach/foreach/obj/Debug/net8.0/foreach.AssemblyInfoInputs.cache
+/Users/bartekromek/wsb/foreach/foreach/obj/Debug/net8.0/foreach.AssemblyInfo.cs
+/Users/bartekromek/wsb/foreach/foreach/obj/Debug/net8.0/foreach.csproj.CoreCompileInputs.cache
+/Users/bartekromek/wsb/foreach/foreach/obj/Debug/net8.0/foreach.dll
+/Users/bartekromek/wsb/foreach/foreach/obj/Debug/net8.0/refint/foreach.dll
+/Users/bartekromek/wsb/foreach/foreach/obj/Debug/net8.0/foreach.pdb
+/Users/bartekromek/wsb/foreach/foreach/obj/Debug/net8.0/foreach.genruntimeconfig.cache
+/Users/bartekromek/wsb/foreach/foreach/obj/Debug/net8.0/ref/foreach.dll

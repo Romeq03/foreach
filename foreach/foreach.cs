@@ -15,11 +15,11 @@ class Program
             {
                 
                 Console.WriteLine("End");
-                continue; // Przerwij pętlę, gdy natrafisz na "dog"
+                continue;
             }
             Console.WriteLine(pet);
         }
 
-        Console.ReadLine(); // Zatrzymuje konsolę przed zamknięciem
+        Console.ReadLine();
     }
 }
